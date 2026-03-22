@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Media Manager — Android (Kotlin + Jetpack Compose)
 
-A fully-featured Android media management app built with **Kotlin**, **Jetpack Compose**, and **Material 3 Expressive** design. Targets **API 34 (Android 14)**.
+A fully-featured Android media management app built with **Kotlin**, **Jetpack Compose**, and **Material 3 Expressive** design. Targets **API 35 (Android 15)**.
 
 ---
 

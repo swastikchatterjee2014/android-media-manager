@@ -1,0 +1,8 @@
+# Ignore the build folder in the root directory
+/build/
+
+# Ignore the build folder nested inside the app directory
+/app/build/
+
+# Optional: Ignore any folder named "build" anywhere in the project
+**/build/

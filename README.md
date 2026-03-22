@@ -3,7 +3,7 @@ A media manager for Android. Developed in Kotlin, Jetpack Compose and Gradle. It
 This application is strictly local only and Android only.
 #Permissions 
 All files
-This application is not signed by Google soit may ask to scan with Play Protect. You may dismiss the scan or scan it. 
+This application is not signed by Google so it may ask to scan with Play Protect. You may dismiss the scan or scan it. 
 If you scan it, it is very likely to return "This application is looking safe"
 #Compile from source
 To compile it from source
@@ -18,3 +18,5 @@ git clone https://github.com/swastikchatterjee2014/android-media-manager.git
 #Compile 
 cd MediaManagerApp
 zsh build.zsh
+License - GNU Affero General Public License version 3 (AGPLv3)
+For more details, see LICENSE.txt
